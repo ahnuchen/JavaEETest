@@ -11,10 +11,9 @@ public class MyConfig {
     }
 
     @Bean
-    public UseFunctionService useFunctionService(FunctionService functionService){
+    public UseFunctionService useFunctionService (FunctionService functionService){
         UseFunctionService useFunctionService = new UseFunctionService();
         useFunctionService.setFunctionService(functionService);
         return useFunctionService;
     }
-
 }
