@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="test7ccy" />
         <module name="Test4ccy" />
         <module name="Test5ccy" />
         <module name="Test6ccy" />
@@ -16,6 +17,7 @@
       <module name="Test4ccy" target="1.5" />
       <module name="Test5ccy" target="1.5" />
       <module name="Test6ccy" target="1.5" />
+      <module name="test7ccy" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
