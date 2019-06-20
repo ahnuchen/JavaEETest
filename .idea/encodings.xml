@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Test19-MyStarter" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Test19-SpringBoot2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Test20-Thymeleaf1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Test20-WebSocket" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Test21-WebChat" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Test22-JPA" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Test23-REST" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Test24-Transaction" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Test25-Cache" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Test26-Security" charset="UTF-8" />
+  </component>
+</project>

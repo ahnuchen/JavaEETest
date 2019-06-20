@@ -7,19 +7,77 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="test7ccy" />
-        <module name="Test4ccy" />
+        <module name="Test28-Spring1" />
+        <module name="Test27-mybatis9" />
+        <module name="Test27-mybatis8" />
+        <module name="Test27-mybatis7" />
+        <module name="test22-jpa" />
+        <module name="Test27-mybatis5" />
+        <module name="Test14-Scheduled" />
+        <module name="Test27-mybatis3" />
+        <module name="Test17-Test" />
         <module name="Test5ccy" />
-        <module name="Test6ccy" />
+        <module name="Test4ccy" />
+        <module name="test26-security" />
+        <module name="Test13-TaskExecutor" />
+        <module name="Test15-Conditional" />
+        <module name="test25-cache" />
+        <module name="test24-transaction" />
+        <module name="test19-springboot2" />
+        <module name="test20-thymeleaf1" />
+        <module name="Test27-mybatis6" />
+        <module name="Test10-Profile" />
+        <module name="org.sang.mystarter" />
+        <module name="test20-websocket" />
+        <module name="Test27-mybatis4" />
+        <module name="Test12-Aware" />
+        <module name="test21-webchat" />
+        <module name="Test11-Event" />
+        <module name="test23-rest" />
         <module name="test8ccy" />
+        <module name="Test9-BeanLiftCycle" />
+        <module name="Test6ccy" />
+        <module name="Test16-GroupAnno" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="MyBlog" target="1.5" />
+      <module name="org.sang.mystarter" target="1.5" />
+      <module name="Test10-Profile" target="1.5" />
+      <module name="Test11-Event" target="1.5" />
+      <module name="Test12-Aware" target="1.5" />
+      <module name="Test13-TaskExecutor" target="1.5" />
+      <module name="Test14-Scheduled" target="1.5" />
+      <module name="Test15-Conditional" target="1.5" />
+      <module name="Test16-GroupAnno" target="1.5" />
+      <module name="Test17-Test" target="1.5" />
+      <module name="Test18-FileUpload" target="1.5" />
+      <module name="Test18-SpringMVC1" target="1.5" />
+      <module name="Test18-SpringMVC2" target="1.5" />
+      <module name="Test18-SpringMVC3" target="1.5" />
+      <module name="test19-springboot2" target="1.8" />
+      <module name="test20-thymeleaf1" target="1.8" />
+      <module name="test20-websocket" target="1.8" />
+      <module name="test21-webchat" target="1.8" />
+      <module name="test22-jpa" target="1.8" />
+      <module name="test23-rest" target="1.8" />
+      <module name="test24-transaction" target="1.8" />
+      <module name="test25-cache" target="1.8" />
+      <module name="test26-security" target="1.8" />
+      <module name="Test27-mybatis3" target="1.5" />
+      <module name="Test27-mybatis4" target="1.5" />
+      <module name="Test27-mybatis5" target="1.5" />
+      <module name="Test27-mybatis6" target="1.5" />
+      <module name="Test27-mybatis7" target="1.5" />
+      <module name="Test27-mybatis8" target="1.5" />
+      <module name="Test27-mybatis9" target="1.5" />
+      <module name="Test28-Spring1" target="1.5" />
       <module name="Test4ccy" target="1.5" />
       <module name="Test5ccy" target="1.5" />
       <module name="Test6ccy" target="1.5" />
       <module name="test7ccy" target="1.5" />
       <module name="test8ccy" target="1.5" />
+      <module name="Test9-BeanLiftCycle" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -2,6 +2,10 @@
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/MyBlog" />
+    <file type="web" url="file://$PROJECT_DIR$/Test18-FileUpload" />
+    <file type="web" url="file://$PROJECT_DIR$/Test18-SpringMVC1" />
+    <file type="web" url="file://$PROJECT_DIR$/Test18-SpringMVC2" />
+    <file type="web" url="file://$PROJECT_DIR$/Test18-SpringMVC3" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
@@ -14,6 +18,33 @@
         <option value="$PROJECT_DIR$/Test6ccy/pom.xml" />
         <option value="$PROJECT_DIR$/test7ccy/pom.xml" />
         <option value="$PROJECT_DIR$/test8ccy/pom.xml" />
+        <option value="$PROJECT_DIR$/Test9-BeanLiftCycle/pom.xml" />
+        <option value="$PROJECT_DIR$/Test10-Profile/pom.xml" />
+        <option value="$PROJECT_DIR$/Test11-Event/pom.xml" />
+        <option value="$PROJECT_DIR$/Test12-Aware/pom.xml" />
+        <option value="$PROJECT_DIR$/Test13-TaskExecutor/pom.xml" />
+        <option value="$PROJECT_DIR$/Test14-Scheduled/pom.xml" />
+        <option value="$PROJECT_DIR$/Test15-Conditional/pom.xml" />
+        <option value="$PROJECT_DIR$/Test16-GroupAnno/pom.xml" />
+        <option value="$PROJECT_DIR$/Test17-Test/pom.xml" />
+        <option value="$PROJECT_DIR$/Test19-MyStarter/pom.xml" />
+        <option value="$PROJECT_DIR$/Test19-SpringBoot2/pom.xml" />
+        <option value="$PROJECT_DIR$/Test20-Thymeleaf1/pom.xml" />
+        <option value="$PROJECT_DIR$/Test20-WebSocket/pom.xml" />
+        <option value="$PROJECT_DIR$/Test21-WebChat/pom.xml" />
+        <option value="$PROJECT_DIR$/Test22-JPA/pom.xml" />
+        <option value="$PROJECT_DIR$/Test23-REST/pom.xml" />
+        <option value="$PROJECT_DIR$/Test24-Transaction/pom.xml" />
+        <option value="$PROJECT_DIR$/Test25-Cache/pom.xml" />
+        <option value="$PROJECT_DIR$/Test26-Security/pom.xml" />
+        <option value="$PROJECT_DIR$/Test27-mybatis3/pom.xml" />
+        <option value="$PROJECT_DIR$/Test27-mybatis4/pom.xml" />
+        <option value="$PROJECT_DIR$/Test27-mybatis5/pom.xml" />
+        <option value="$PROJECT_DIR$/Test27-mybatis6/pom.xml" />
+        <option value="$PROJECT_DIR$/Test27-mybatis7/pom.xml" />
+        <option value="$PROJECT_DIR$/Test27-mybatis8/pom.xml" />
+        <option value="$PROJECT_DIR$/Test27-mybatis9/pom.xml" />
+        <option value="$PROJECT_DIR$/Test28-Spring1/pom.xml" />
       </list>
     </option>
   </component>

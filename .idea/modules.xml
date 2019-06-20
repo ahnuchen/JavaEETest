@@ -3,9 +3,36 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/JavaEETest.iml" filepath="$PROJECT_DIR$/.idea/JavaEETest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test10-Profile/Test10-Profile.iml" filepath="$PROJECT_DIR$/Test10-Profile/Test10-Profile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test11-Event/Test11-Event.iml" filepath="$PROJECT_DIR$/Test11-Event/Test11-Event.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test12-Aware/Test12-Aware.iml" filepath="$PROJECT_DIR$/Test12-Aware/Test12-Aware.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test13-TaskExecutor/Test13-TaskExecutor.iml" filepath="$PROJECT_DIR$/Test13-TaskExecutor/Test13-TaskExecutor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test14-Scheduled/Test14-Scheduled.iml" filepath="$PROJECT_DIR$/Test14-Scheduled/Test14-Scheduled.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test15-Conditional/Test15-Conditional.iml" filepath="$PROJECT_DIR$/Test15-Conditional/Test15-Conditional.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test16-GroupAnno/Test16-GroupAnno.iml" filepath="$PROJECT_DIR$/Test16-GroupAnno/Test16-GroupAnno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test17-Test/Test17-Test.iml" filepath="$PROJECT_DIR$/Test17-Test/Test17-Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test27-mybatis3/Test27-mybatis3.iml" filepath="$PROJECT_DIR$/Test27-mybatis3/Test27-mybatis3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test27-mybatis4/Test27-mybatis4.iml" filepath="$PROJECT_DIR$/Test27-mybatis4/Test27-mybatis4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test27-mybatis5/Test27-mybatis5.iml" filepath="$PROJECT_DIR$/Test27-mybatis5/Test27-mybatis5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test27-mybatis6/Test27-mybatis6.iml" filepath="$PROJECT_DIR$/Test27-mybatis6/Test27-mybatis6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test27-mybatis7/Test27-mybatis7.iml" filepath="$PROJECT_DIR$/Test27-mybatis7/Test27-mybatis7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test27-mybatis8/Test27-mybatis8.iml" filepath="$PROJECT_DIR$/Test27-mybatis8/Test27-mybatis8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test27-mybatis9/Test27-mybatis9.iml" filepath="$PROJECT_DIR$/Test27-mybatis9/Test27-mybatis9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test28-Spring1/Test28-Spring1.iml" filepath="$PROJECT_DIR$/Test28-Spring1/Test28-Spring1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test4ccy/Test4ccy.iml" filepath="$PROJECT_DIR$/Test4ccy/Test4ccy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test5ccy/Test5ccy.iml" filepath="$PROJECT_DIR$/Test5ccy/Test5ccy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Test6ccy/Test6ccy.iml" filepath="$PROJECT_DIR$/Test6ccy/Test6ccy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test9-BeanLiftCycle/Test9-BeanLiftCycle.iml" filepath="$PROJECT_DIR$/Test9-BeanLiftCycle/Test9-BeanLiftCycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test19-MyStarter/org.sang.mystarter.iml" filepath="$PROJECT_DIR$/Test19-MyStarter/org.sang.mystarter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test19-SpringBoot2/test19-springboot2.iml" filepath="$PROJECT_DIR$/Test19-SpringBoot2/test19-springboot2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test20-Thymeleaf1/test20-thymeleaf1.iml" filepath="$PROJECT_DIR$/Test20-Thymeleaf1/test20-thymeleaf1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test20-WebSocket/test20-websocket.iml" filepath="$PROJECT_DIR$/Test20-WebSocket/test20-websocket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test21-WebChat/test21-webchat.iml" filepath="$PROJECT_DIR$/Test21-WebChat/test21-webchat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test22-JPA/test22-jpa.iml" filepath="$PROJECT_DIR$/Test22-JPA/test22-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test23-REST/test23-rest.iml" filepath="$PROJECT_DIR$/Test23-REST/test23-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test24-Transaction/test24-transaction.iml" filepath="$PROJECT_DIR$/Test24-Transaction/test24-transaction.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test25-Cache/test25-cache.iml" filepath="$PROJECT_DIR$/Test25-Cache/test25-cache.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test26-Security/test26-security.iml" filepath="$PROJECT_DIR$/Test26-Security/test26-security.iml" />
       <module fileurl="file://$PROJECT_DIR$/test7ccy/test7ccy.iml" filepath="$PROJECT_DIR$/test7ccy/test7ccy.iml" />
       <module fileurl="file://$PROJECT_DIR$/test8ccy/test8ccy.iml" filepath="$PROJECT_DIR$/test8ccy/test8ccy.iml" />
     </modules>
